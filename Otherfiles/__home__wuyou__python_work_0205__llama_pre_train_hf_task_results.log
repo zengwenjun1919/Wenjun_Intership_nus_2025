@@ -1,0 +1,321 @@
+任务成功：anli_r1
+运行时间：316 秒
+results 字段：
+{
+  "anli_r1": {
+    "alias": "anli_r1",
+    "acc,none": 0.355,
+    "acc_stderr,none": 0.015139491543780534
+  }
+}
+----------------------------------------
+任务成功：anli_r2
+运行时间：83 秒
+results 字段：
+{
+  "anli_r2": {
+    "alias": "anli_r2",
+    "acc,none": 0.368,
+    "acc_stderr,none": 0.0152580735615218
+  }
+}
+----------------------------------------
+任务成功：anli_r3
+运行时间：87 秒
+results 字段：
+{
+  "anli_r3": {
+    "alias": "anli_r3",
+    "acc,none": 0.375,
+    "acc_stderr,none": 0.013981251595027874
+  }
+}
+----------------------------------------
+任务成功：arc_challenge
+运行时间：76 秒
+results 字段：
+{
+  "arc_challenge": {
+    "alias": "arc_challenge",
+    "acc,none": 0.4334470989761092,
+    "acc_stderr,none": 0.014481376224558902,
+    "acc_norm,none": 0.4598976109215017,
+    "acc_norm_stderr,none": 0.01456431885692485
+  }
+}
+----------------------------------------
+任务成功：arc_easy
+运行时间：96 秒
+results 字段：
+{
+  "arc_easy": {
+    "alias": "arc_easy",
+    "acc,none": 0.7643097643097643,
+    "acc_stderr,none": 0.008709108323214464,
+    "acc_norm,none": 0.7441077441077442,
+    "acc_norm_stderr,none": 0.008953950243013993
+  }
+}
+----------------------------------------
+任务成功：openbookqa
+运行时间：59 秒
+results 字段：
+{
+  "openbookqa": {
+    "alias": "openbookqa",
+    "acc,none": 0.32,
+    "acc_stderr,none": 0.0208823404887618,
+    "acc_norm,none": 0.444,
+    "acc_norm_stderr,none": 0.022242244375731024
+  }
+}
+----------------------------------------
+任务成功：sciq
+运行时间：130 秒
+results 字段：
+{
+  "sciq": {
+    "alias": "sciq",
+    "acc,none": 0.936,
+    "acc_stderr,none": 0.007743640226919307,
+    "acc_norm,none": 0.906,
+    "acc_norm_stderr,none": 0.009233052000787723
+  }
+}
+----------------------------------------
+任务成功：cola
+运行时间：270 秒
+results 字段：
+{
+  "cola": {
+    "alias": "cola",
+    "mcc,none": -0.030524810725107578,
+    "mcc_stderr,none": 0.028105317463773923
+  }
+}
+----------------------------------------
+任务成功：rte
+运行时间：63 秒
+results 字段：
+{
+  "rte": {
+    "alias": "rte",
+    "acc,none": 0.631768953068592,
+    "acc_stderr,none": 0.029032524428023714
+  }
+}
+----------------------------------------
+任务成功：anli_r1
+运行时间：81 秒
+results 字段：
+{
+  "anli_r1": {
+    "alias": "anli_r1",
+    "acc,none": 0.355,
+    "acc_stderr,none": 0.015139491543780534
+  }
+}
+----------------------------------------
+任务成功：anli_r2
+运行时间：79 秒
+results 字段：
+{
+  "anli_r2": {
+    "alias": "anli_r2",
+    "acc,none": 0.368,
+    "acc_stderr,none": 0.0152580735615218
+  }
+}
+----------------------------------------
+任务成功：anli_r3
+运行时间：88 秒
+results 字段：
+{
+  "anli_r3": {
+    "alias": "anli_r3",
+    "acc,none": 0.375,
+    "acc_stderr,none": 0.013981251595027874
+  }
+}
+----------------------------------------
+任务成功：arc_challenge
+运行时间：67 秒
+results 字段：
+{
+  "arc_challenge": {
+    "alias": "arc_challenge",
+    "acc,none": 0.4334470989761092,
+    "acc_stderr,none": 0.014481376224558902,
+    "acc_norm,none": 0.4598976109215017,
+    "acc_norm_stderr,none": 0.01456431885692485
+  }
+}
+----------------------------------------
+任务成功：arc_easy
+运行时间：88 秒
+results 字段：
+{
+  "arc_easy": {
+    "alias": "arc_easy",
+    "acc,none": 0.7643097643097643,
+    "acc_stderr,none": 0.008709108323214464,
+    "acc_norm,none": 0.7441077441077442,
+    "acc_norm_stderr,none": 0.008953950243013993
+  }
+}
+----------------------------------------
+任务成功：openbookqa
+运行时间：50 秒
+results 字段：
+{
+  "openbookqa": {
+    "alias": "openbookqa",
+    "acc,none": 0.32,
+    "acc_stderr,none": 0.0208823404887618,
+    "acc_norm,none": 0.444,
+    "acc_norm_stderr,none": 0.022242244375731024
+  }
+}
+----------------------------------------
+任务成功：winogrande
+运行时间：104 秒
+results 字段：
+{
+  "winogrande": {
+    "alias": "winogrande",
+    "acc,none": 0.6929755327545383,
+    "acc_stderr,none": 0.01296368861696948
+  }
+}
+----------------------------------------
+任务成功：logiqa
+运行时间：142 秒
+results 字段：
+{
+  "logiqa": {
+    "alias": "logiqa",
+    "acc,none": 0.25806451612903225,
+    "acc_stderr,none": 0.017162894755127066,
+    "acc_norm,none": 0.30414746543778803,
+    "acc_norm_stderr,none": 0.018044465791506776
+  }
+}
+----------------------------------------
+任务成功：sciq
+运行时间：105 秒
+results 字段：
+{
+  "sciq": {
+    "alias": "sciq",
+    "acc,none": 0.936,
+    "acc_stderr,none": 0.007743640226919307,
+    "acc_norm,none": 0.906,
+    "acc_norm_stderr,none": 0.009233052000787723
+  }
+}
+----------------------------------------
+任务成功：boolq
+运行时间：210 秒
+results 字段：
+{
+  "boolq": {
+    "alias": "boolq",
+    "acc,none": 0.7743119266055046,
+    "acc_stderr,none": 0.007311471957462395
+  }
+}
+----------------------------------------
+任务成功：cb
+运行时间：55 秒
+results 字段：
+{
+  "cb": {
+    "alias": "cb",
+    "acc,none": 0.4642857142857143,
+    "acc_stderr,none": 0.06724777654937658,
+    "f1,none": 0.3557278208440999,
+    "f1_stderr,none": "N/A"
+  }
+}
+----------------------------------------
+任务成功：cola
+运行时间：264 秒
+results 字段：
+{
+  "cola": {
+    "alias": "cola",
+    "mcc,none": -0.030524810725107578,
+    "mcc_stderr,none": 0.028105317463773923
+  }
+}
+----------------------------------------
+任务成功：rte
+运行时间：50 秒
+results 字段：
+{
+  "rte": {
+    "alias": "rte",
+    "acc,none": 0.631768953068592,
+    "acc_stderr,none": 0.029032524428023714
+  }
+}
+----------------------------------------
+任务成功：wic
+运行时间：53 秒
+results 字段：
+{
+  "wic": {
+    "alias": "wic",
+    "acc,none": 0.49843260188087773,
+    "acc_stderr,none": 0.019810623954060382
+  }
+}
+----------------------------------------
+任务成功：wsc
+运行时间：51 秒
+results 字段：
+{
+  "wsc": {
+    "alias": "wsc",
+    "acc,none": 0.38461538461538464,
+    "acc_stderr,none": 0.0479366886807504
+  }
+}
+----------------------------------------
+任务成功：copa
+运行时间：44 秒
+results 字段：
+{
+  "copa": {
+    "alias": "copa",
+    "acc,none": 0.88,
+    "acc_stderr,none": 0.03265986323710906
+  }
+}
+----------------------------------------
+任务成功：lambada_openai
+运行时间：182 秒
+results 字段：
+{
+  "lambada_openai": {
+    "alias": "lambada_openai",
+    "perplexity,none": 3.31878872648715,
+    "perplexity_stderr,none": 0.0649826544660666,
+    "acc,none": 0.7393751212885697,
+    "acc_stderr,none": 0.0061157880293335335
+  }
+}
+----------------------------------------
+任务成功：lambada_standard
+运行时间：1027 秒
+results 字段：
+{
+  "lambada_standard": {
+    "alias": "lambada_standard",
+    "perplexity,none": 4.018123937720727,
+    "perplexity_stderr,none": 0.07988968575203437,
+    "acc,none": 0.6875606442848826,
+    "acc_stderr,none": 0.006457292279746491
+  }
+}
+----------------------------------------
