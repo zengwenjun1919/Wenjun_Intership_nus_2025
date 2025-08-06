@@ -1,0 +1,10 @@
+models:
+  - model: E:/python/0129批量模型融合/llama
+    parameters:
+      weight: 0.8
+  - model: E:/python/0129批量模型融合/WizardMath
+    parameters:
+      weight: 0.2
+merge_method: task_arithmetic
+dtype: float32
+base_model:  E:/python/0129批量模型融合/llama

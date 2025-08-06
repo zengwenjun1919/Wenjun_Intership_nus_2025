@@ -1,0 +1,12 @@
+models:
+  - model: E:/python/0129批量模型融合/llama
+    parameters:
+      weight: 0.6
+      density: 0.4
+  - model: E:/python/0129批量模型融合/WizardMath
+    parameters:
+      weight: 0.4
+      density: 0.4
+merge_method: dare_linear
+base_model: E:/python/0129批量模型融合/llama
+dtype: float32
